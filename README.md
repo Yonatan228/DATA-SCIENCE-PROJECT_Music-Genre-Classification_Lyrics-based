@@ -1,6 +1,6 @@
 # Music-Genre-Classification
 
-Hello
+Hello,
 
 It took me quit some time to find an idea for my project in data science but i finaly decided to try building a word based machine learning model.
 I thought about news topic classifier at first but music lyrics sounded more fun.
