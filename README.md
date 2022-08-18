@@ -2,8 +2,7 @@
 
 Hello,
 
-It took me quit some time to find an idea for my project in data science but i finaly decided to try building a word based machine learning model.
-I thought about news topic classifier at first but music lyrics sounded more fun.
+It took me quit some time to find an idea for my project in data science but i finaly decided to try building a language based machine learning model.
 
 
 ### Acknoledgement
@@ -17,5 +16,3 @@ I am following the basic steps of text classification:
 * vectorization
 * model training
 * test prediction
-
-I uploaded the notebook and the csv files containing the data.
