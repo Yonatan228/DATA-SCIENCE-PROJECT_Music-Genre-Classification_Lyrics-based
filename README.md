@@ -3,7 +3,7 @@
 In my final project of the Data Science course in my study, I chose to implement a NLP classification model to predict genre of songs based on their lyrics.
 
 
-### Acknoledgement
+### Acknowledgement
 I got the data from the brazilian website:   www.vagalume.com.br <br> 
 A great website with plenty of lyrics organized by genre.
 
